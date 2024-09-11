@@ -5,7 +5,7 @@
     "dark": "/logo/maia-logo-light.svg",
     "light": "/logo/maia-logo-dark.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
