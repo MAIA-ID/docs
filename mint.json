@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "MAIA Docs",
   "logo": {
-    "dark": "/logo/maia-logo-dark.svg",
-    "light": "/logo/maia-logo-light.svg"
+    "dark": "/logo/maia-logo-light.svg",
+    "light": "/logo/maia-logo-dark.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
